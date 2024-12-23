@@ -1,4 +1,2 @@
-a = "salom"
-b = "salom"
-
-print(a is b)
+print('P' in 'Python')
+print('z' in 'Python')
