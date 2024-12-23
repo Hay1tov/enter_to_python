@@ -1,5 +1,5 @@
-a = int(input('Birinchi sonni kiriting = '))
-b = int(input('Ikkinchi sonni kiriting = '))
+a = float(input("""o'nli son kiriting = """))
 
-print(a == b)
-print(a > b)
+print(int(a))
+
+
