@@ -1,2 +1,4 @@
-print('P' in 'Python')
-print('z' in 'Python')
+word = input('matnni kiriting: ')
+letter = input('harfni kiriting: ')
+
+print(letter in word)
